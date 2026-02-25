@@ -4,17 +4,17 @@
 
 Projeto simples publicado com GitHub Pages.
 
-## 🔗 Site publicado
+##  Site publicado
 https://arissa-inada.github.io/areal-selection/
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 Este projeto foi criado para praticar:
 - HTML
 - CSS
 - JavaScript
 - Publicação com GitHub Pages
 
-## 🚀 Tecnologias usadas
+##  Tecnologias usadas
 - HTML5
 - CSS3
 - JavaScript
